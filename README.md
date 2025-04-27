@@ -1,5 +1,5 @@
 
-# CODEALPHA-Task-1
+# CodeAlpha_Project_StudentGradeTracker
 
 Name:M.Saisree
 
