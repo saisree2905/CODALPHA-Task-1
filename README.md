@@ -1,5 +1,5 @@
 
-# CODALPHA-Task-1
+# CODEALPHA-Task-1
 
 Name:M.Saisree
 
