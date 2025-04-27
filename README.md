@@ -1,10 +1,16 @@
-![Screenshot 2025-04-27 235505](https://github.com/user-attachments/assets/a6dae818-8882-429c-9ae2-df6145419d89)
+
 # CODALPHA-Task-1
+
 Name:M.Saisree
+
 StudentId:CA/AP1/3057
+
 COMPANY: CODEALPHA
+
 DOMAIN:JAVA PROGRAMMING
+
 DURATION:APRIL TO MAY 2025
+
 
 OVERVIEW OF THE PROJECT :
 This Java project helps track multiple students' grades, calculate average, highest, and lowest grades for each student, and display a summary.
@@ -19,7 +25,6 @@ name — Student's name (String).
 grades — List of grades (ArrayList of Integers).
 
 Methods:
-
 Student(String name) — Constructor to set the student's name and initialize an empty grade list.
 
 void addGrade(int grade) — Adds a new grade to the student's list.
@@ -74,6 +79,7 @@ Format average to 2 decimal places (for cleaner output).
 Handle cases where students have no grades (avoid weird min/max values).
 
 Add input validation (make sure users don't enter negative grades, etc.).
+![Screenshot 2025-04-27 235505](https://github.com/user-attachments/assets/a6dae818-8882-429c-9ae2-df6145419d89)
 
 
 
